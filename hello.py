@@ -1,1 +1,1 @@
-print "hello from Moses"
+print ("hello from Moses")
